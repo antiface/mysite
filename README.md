@@ -1,1 +1,1 @@
-# mysite - basif Django scaffolding for research purposes.
+# mysite - basic Django scaffolding for research purposes.
